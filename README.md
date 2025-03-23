@@ -10,10 +10,12 @@ My experience spans across customer funnel analysis, machine learning, public se
 ---
 
 
+
 ## 📄 Resume
 
 You can view or download my resume here:  
 👉 [Abdul Haleem Resume (PDF)](./Abdul_Haleem_Resume.pdf)
+
 
 
 ## 🚀 Featured Projects
