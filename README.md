@@ -7,6 +7,14 @@ I'm a results-driven analytics professional with a Master's in Business Analytic
 My experience spans across customer funnel analysis, machine learning, public sector data analytics, forecasting, and quantum computing applications. I bring a strong balance of technical skills and business acumen to solve real-world challenges and deliver measurable value.
 
 ---
+---
+
+
+## 📄 Resume
+
+You can view or download my resume here:  
+👉 [Abdul Haleem Resume (PDF)](./Abdul_Haleem_Resume.pdf)
+
 
 ## 🚀 Featured Projects
 
