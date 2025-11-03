@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Haleem 👋
+# Hi, I'm Haleem 👋
 
 💼 Business Analyst | Data Analyst | MS in Business Analytics
 
